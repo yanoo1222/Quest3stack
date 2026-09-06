@@ -111,8 +111,6 @@ src/
 ## References
 
 - GhostLock writeup (NebuSec IonStack part II): https://nebusec.ai/research/ionstack-part-2
-- Working-reference profile for this device:
-  `ghostlock/tools/reference/pancake_quest3_eureka.txt`
 - Kernel ground truth: OTA-extracted `kernel.elf` for
   `52168470052900520` (sha `53b0a65f…ecbc`).
 
