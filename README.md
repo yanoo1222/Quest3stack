@@ -68,7 +68,6 @@ Use `make PROJECT=blazer-CP2A.260605.012` for the Pixel build.
 
 ```sh
 adb push build/eureka-52168470052900520/bin/preload.so /data/local/tmp/preload.so
-adb shell chmod 755 /data/local/tmp/preload.so
 adb shell "LD_PRELOAD=/data/local/tmp/preload.so MAIN_IOURING_ROUTE=1 \
   /system/bin/sh -c 'sleep 120'"
 ```
