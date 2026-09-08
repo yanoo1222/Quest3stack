@@ -113,4 +113,4 @@ src/
 - Kernel ground truth: OTA-extracted `kernel.elf` for
   `52168470052900520` (sha `53b0a65f…ecbc`).
 
--note this was INSPIRED by the pancake exploit although absolutely NO code was stolen/skidded of the pancake project 
+-note this was INSPIRED by the pancake exploit although absolutely NO code was stolen of the pancake project 
